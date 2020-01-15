@@ -1,0 +1,43 @@
+.wy-side-nav-search {
+    display: block;
+    width: 300px;
+    padding: .809em;
+    margin-bottom: .809em;
+    z-index: 200;
+    background-color: #FF0000;
+    text-align: center;
+    padding: .809em;
+    display: block;
+    color: #fcfcfc;
+    margin-bottom: .809em
+}
+
+.btn-neutral {
+    background-color: #DCDCDC !important;
+    color: #404040 !important;
+}
+
+
+.highlight .sd {
+    color: #BA2121;
+    font-style: normal;
+}
+
+
+.rst-content pre.literal-block, .rst-content div[class^='highlight'] pre, .rst-content .linenodiv pre {
+    /* font-family: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",Courier,monospace; */
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+.highlight .c1 {
+    color: #BA55D3;
+    font-style: normal;
+}
+
+p {
+    line-height: 28px;
+    margin: 0;
+    font-size: 16px;
+    margin-bottom: 24px;
+}
